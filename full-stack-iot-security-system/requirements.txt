@@ -1,0 +1,6 @@
+# Stage 1 — webcam + face detection test (Week 1-2)
+opencv-python
+
+# Stage 2 — real face recognition (Week 3-4), uncomment once you're ready
+# face_recognition
+# imutils
