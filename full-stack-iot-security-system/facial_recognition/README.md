@@ -1,6 +1,6 @@
 # facial_recognition/
 
-Face detection, encoding, and authorized-employee matching (Objective 3).
+Face detection, encoding, and authorized-employee matching.
 
 ## Stage 1 — `test_webcam_face_detection.py`
 Confirms your camera works and OpenCV can detect a face in the frame. Uses
