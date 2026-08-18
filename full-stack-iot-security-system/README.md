@@ -1,4 +1,4 @@
-# Wiwi Garment IoT Security System
+# IoT Security System
 
 Full-stack IoT security system that detects unauthorized storage-room access
 and item interactions in real time, using a Raspberry Pi, dual AI detection
