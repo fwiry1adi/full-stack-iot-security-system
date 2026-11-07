@@ -1,1 +1,19 @@
+# Biometric data — must never enter git
+data/known_faces/
+data/faces/
+data/*.pickle
+data/*.yml
+data/workers.json
 
+# Captures may contain identifiable people
+captures/
+
+# Model weights (large; live on Drive)
+models/
+*.pt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+venv/
